@@ -1,4 +1,4 @@
-# Regression Project
+## *Regression Project*
 # Predicting Total Movie Grosses 
 
 #### OBJECTIVE:
